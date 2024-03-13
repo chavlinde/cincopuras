@@ -20,4 +20,7 @@ header {
 
 .introducao {
     display: flex;
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
 }
