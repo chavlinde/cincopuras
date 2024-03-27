@@ -30,3 +30,8 @@ header {
     border-radius: 19px;
     border: 3px solid;
 }
+
+.equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
