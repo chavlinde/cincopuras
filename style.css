@@ -3,6 +3,10 @@
 }
 body{
     background-color: var(--cor-de-fundo);
+    font-family: "Edu NSW ACT Foundation", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 img{
     width: 10%;
