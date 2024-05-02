@@ -18,10 +18,10 @@ header {
     align-items: center;
 }
 
-.botão {
-    background-color: lightgoldenrodyellow;
-    padding: 15px;
-    border-radius: 20px;
+section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
 }
 
 .praia {
